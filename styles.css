@@ -1,1 +1,8 @@
-/* Custom overrides if needed */
+/* Custom styles to improve contrast */
+h1, h2, h3, h4, h5, h6 {
+  color: #111827; /* Tailwind's gray-900 */
+}
+
+p {
+  color: #374151; /* Tailwind's gray-700 */
+}
